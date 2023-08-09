@@ -1,7 +1,0 @@
-{
-  "python.testing.pytestArgs": [
-    "sudoku"
-  ],
-  "python.testing.unittestEnabled": false,
-  "python.testing.pytestEnabled": true
-}
